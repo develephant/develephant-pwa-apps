@@ -1,1 +1,23 @@
-{"name":"Bio Boss","short_name":"BioBoss","start_url":"/","display":"standalone","background_color":"#000000","theme_color":"#42b883","lang":"en","scope":"/root","base":"/bioboss-app/","icons":[{"src":"/assets/pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/assets/pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
+{
+  "name": "Bio Boss",
+  "short_name": "BioBoss",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#42b883",
+  "lang": "en",
+  "scope": "/",
+  "base": "/bioboss/",
+  "icons": [
+    {
+      "src": "/assets/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
